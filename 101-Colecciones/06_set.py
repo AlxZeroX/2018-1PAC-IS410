@@ -2,8 +2,25 @@
 s1 = set([1, 2, 3, 4, 5])
 s2 = set((3, 4, 5, 6, 7))
 
+# Es posible utilizar esta notacion para un set
+s3 = {0, 0, 1}		
+# Para el caso anterior, solo hay dos elemento pues los set no permiten 
+# elementos repetidos
+
 # No soporta la indexacion
 s1[0]
+
+# Para agregar un elemento
+s3.add(2)
+
+# Para agregar varios elementos (el argumento es una coleccion)
+s3.update([3, 4, 5])
+
+# Para eliminar elementos se puede utilizar discard() o remove()
+# La diferencia consiste en que si no se encuentra el elemento a borrar
+# remove() genera un error
+s3.discard(5)
+s3.remove(4)
 
 # Union de conjuntos
 s1 | s2
