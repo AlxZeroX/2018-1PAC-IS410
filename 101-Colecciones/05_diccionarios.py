@@ -36,3 +36,8 @@ alumno = {
 	]
 
 }
+
+# Es posible recorrer un diccionario por sus claves y valores
+for clave, valor in alumno:
+	print(clave, valor, sep='=')
+	
