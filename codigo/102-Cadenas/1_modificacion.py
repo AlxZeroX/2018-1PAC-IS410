@@ -40,3 +40,9 @@ str4.strip()	# Ambos lados
 str5 = "estan"
 lista = ["Hola", "que", "tal"]
 str5.join(lista)
+
+# Separa cadena en elementos
+str6 = "Hola que tal estan"
+lista1 = str6.split()
+
+
