@@ -2,7 +2,7 @@
 
 Clase de Programación Orientada a Objetos de 2018-1PAC
 ## Parcial I
-### Codigo
+### Código
 - [Colecciones: Listas, tuplas, diccionarios y sets](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/101-Colecciones)
 - [Strings](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/102-Cadenas)
 - [Excepciones](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/103-Excepciones)
@@ -13,4 +13,9 @@ Clase de Programación Orientada a Objetos de 2018-1PAC
 - [Configuración de PyCharm](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-21-configuracion-de-pycharm.md)
 
 ## Parcial II
+### Código
+### Temas
+- [Clases](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-clases.md)
+- [Objectos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-objetos.md)
+
 ## Parcial III

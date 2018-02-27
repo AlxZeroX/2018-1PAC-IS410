@@ -1,7 +1,6 @@
----
-published: true
----
-### Definición
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+# Manejo de Excepciones
+## Definición
 Los errores de programación se presentan cuando un programa finaliza con un resultado indeseado. Estos pueden ser:
 - Errores de sintaxis
 - Excepciones
@@ -10,7 +9,7 @@ Por lo general, las excepciones ocurren bajo ciertas condiciones, como ser: una 
 
 Las excepciones son eventos relacionados directamente con la ejecución de un programa. En general, cuando ocurre una excepción el sistema operativo aborta el programa.
 
-### Manejo
+## Manejo
 Para evitar que el programa sea abortado es necesario poder controlar las excepciones. Para ello Python provee el uso de las palabras clave **try** / **except**
 
 ```python
@@ -82,10 +81,10 @@ except NameError:
     raise
 ```
 
-### Finally
+### Bloque Finally
 Existe una clausula opcional denominada **finally** la cual, si se utiliza, se llama ocurra o no una excepción. En aplicaciones reales, la cláusula **finally** es útil para liberar recursos externos (como archivos o conexiones de red), sin importar si el uso del recurso fue exitoso.
 
-### Excepciones comunes
+## Excepciones comunes
 A continuación se muestra un listado de las excepciones más comunes:[[2]](https://code.tutsplus.com/es/tutorials/how-to-handle-exceptions-in-python--cms-28621) 
 - **NameError:** Esta excepción es levantada cuando el programa no puede encontrar un nombre local o global. El nombre que podría no ser encontrado está incluido en el mensaje de error.
 - **TypeError:** Esta excepción es levantada cuando una función se le pasa un objeto del tipo inapropiado como su argumento. Más detalles sobre el tipo incorrecto son proporcionados en el mensaje de error.
