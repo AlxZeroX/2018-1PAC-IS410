@@ -41,12 +41,12 @@ Para seleccionar se da clic en el boton (logo engranaje).
 
 Luego se selecciona el tipo de interprete que se utilizará. En este caso **Virtualenv Environment**, luego se escoje el archivo del interprete de Python que se ha instalado previamente. Para este caso el directorio es: `c:\Python36\python.exe`. Luego se selecciona la casilla **Make available to all projects**. Con esto no será necesario configurarlo de nuevo.
 
-![Establecer interprete](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/pycharm/7.PNG)
+![Establecer interprete](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/pycharm/6.PNG)
 
 Una vez definido el interprete presione el botón **Crear** y tendrá una proyecto más ligero.
 
-![Crear proyecto](/imagenes/pycharm/8.PNG)
+![Crear proyecto](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/pycharm/7.PNG)
 
 Como se puede observar con esta configuración no se observa ningun archivo agregado, con lo cual el tamaño de la carpeta es sumamente pequeño.
 
-![Proyecto sin virtualenv](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/pycharm/9.PNG)
+![Proyecto sin virtualenv](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/pycharm/8.PNG)
