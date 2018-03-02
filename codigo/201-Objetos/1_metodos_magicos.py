@@ -1,3 +1,8 @@
+'''
+Estos métodos no son, por lo general, llamados directamente
+sino que, dependiendo de la situación, es posible que el interprete
+los ejecute.
+'''
 class Persona:
     # Metodo constructor
     def __init__(self, nombre, identidad, lugar_nacimiento):

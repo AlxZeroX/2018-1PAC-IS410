@@ -1,3 +1,7 @@
+'''
+En este caso se revisa el fenomeno de copia de un objeto
+y las posibles soluciones.
+'''
 class Persona:
     # Metodo constructor
     def __init__(self, *args):
@@ -17,6 +21,7 @@ class Persona:
         self.nombre = copia.nombre
         self.identidad = copia.identidad
         self.lugar_nacimiento = copia.lugar_nacimiento
+
 
     def __str__(self):
         return "Nombre: {}\nIdentidad: {}\nLugar Nacimiento: {}".format(self.nombre, self.identidad, self.lugar_nacimiento)

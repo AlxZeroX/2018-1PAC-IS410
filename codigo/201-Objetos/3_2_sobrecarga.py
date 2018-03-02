@@ -1,3 +1,9 @@
+'''
+Para el siguiente se hizo uso de dos funciones
+que inicializan de diversas formas al objeto.
+De acuerdo al número de argumentos se llamará a
+una función específica.
+'''
 class Persona:
     # Metodo constructor
     def __init__(self, *args):
