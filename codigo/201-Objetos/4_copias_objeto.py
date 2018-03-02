@@ -18,7 +18,6 @@ class Persona:
         self.identidad = copia.identidad
         self.lugar_nacimiento = copia.lugar_nacimiento
 
-
     def __str__(self):
         return "Nombre: {}\nIdentidad: {}\nLugar Nacimiento: {}".format(self.nombre, self.identidad, self.lugar_nacimiento)
 
