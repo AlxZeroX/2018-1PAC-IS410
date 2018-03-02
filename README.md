@@ -13,8 +13,8 @@ Clase de Programación Orientada a Objetos de 2018-1PAC
 - [Configuración de PyCharm](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-21-configuracion-de-pycharm.md)
 
 ## Parcial II
-- [Objetos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/201-Objetos)
 ### Código
+- [Objetos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/201-Objetos)
 ### Temas extras
 - [Clases](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-clases.md)
 - [Objectos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-objetos.md)
