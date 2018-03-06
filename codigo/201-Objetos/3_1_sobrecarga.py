@@ -10,4 +10,6 @@ class Persona:
         self.nombre = nombre
         self.identidad = identidad
 
+
+
 persona1 = Persona('Ana')

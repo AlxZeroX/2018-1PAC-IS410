@@ -13,6 +13,9 @@ class Persona:
             self.inicializarCopia(*args)
         elif size == 3:      
             self.inicializarSimple(*args)
+        else:   
+            raise Exception('Numero de argumentos invalido')
+        
 
     def inicializarSimple(self, nombre: str, identidad: str, lugar_nacimiento: str):
         self.nombre = nombre
@@ -24,7 +27,6 @@ class Persona:
         self.identidad = copia.identidad
         self.lugar_nacimiento = copia.lugar_nacimiento
 
-
     def __str__(self):
         return "Nombre: {}\nIdentidad: {}\nLugar Nacimiento: {}".format(self.nombre, self.identidad, self.lugar_nacimiento)
 
@@ -32,11 +34,11 @@ class Persona:
 persona1 = Persona('Albert Eistein', '13430', 'Alemania')
 persona1_copia = Persona(persona1)
 
+print('Objeto persona1'.center(80, '-'))
 print(persona1)
+
+print('Objeto obtenido por el inicializador de copia'.center(80, '-'))
 print(persona1_copia)
 
 # Comprobar si los dos objetos son iguales
-print(persona1 == persona1_copia)
-
-# Comprobar si ambos objetos son el mismo
-print(persona1 is persona1_copia)
+print('Ambos objetos son iguales?', persona1 == persona1_copia)
