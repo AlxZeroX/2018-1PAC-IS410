@@ -10,11 +10,13 @@ class Persona:
     # Metodo de clase el primer argumento indica la clase misma
     @classmethod
     def conteo_personas(cls):
+        print('classmethod'.center(80, '-'))
         print("Poblacion actual:", cls.poblacion)
 
     # Metodo estatico. No necesita ningun argmumento inicial
     @staticmethod
     def reiniciar_poblacion():
+        print('staticmethod'.center(80, '-'))
         Persona.poblacion = 0
 
 

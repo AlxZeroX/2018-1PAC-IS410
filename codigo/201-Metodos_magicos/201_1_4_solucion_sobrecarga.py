@@ -1,9 +1,8 @@
 '''
-Para el siguiente se hizo uso de dos funciones
-que inicializan de diversas formas al objeto.
-De acuerdo al número de argumentos se llamará a
-una función específica.
+Para el siguiente se hizo uso de dos funciones que inicializan de diversas formas al objeto.
+De acuerdo al número de argumentos se llamará a una función específica.
 '''
+
 class Persona:
     # Metodo constructor
     def __init__(self, *args):
@@ -39,6 +38,3 @@ print(persona1)
 
 print('Objeto obtenido por el inicializador de copia'.center(80, '-'))
 print(persona1_copia)
-
-# Comprobar si los dos objetos son iguales
-print('Ambos objetos son iguales?', persona1 == persona1_copia)

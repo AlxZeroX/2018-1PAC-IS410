@@ -1,6 +1,5 @@
 ''' 
-Python no maneja la sobrecarga como otros lenguajes.
-En este caso reescribe el método __init__
+Python no maneja la sobrecarga como otros lenguajes. En este caso reescribe el método __init__
 '''
 class Persona:
     def __init__(self, nombre):
