@@ -1,33 +1,42 @@
-class Padre:
+class A:
     def saludar(self):
-        print('Hola... desde', __class__)
+        print(__class__)
 
-class Hijo(Padre):
+class B(A):
     def saludar(self):
         super().saludar()
 
-class OtroHijo(Padre):
+class C(A):
     # Metodo Redefinido
     def saludar(self):
-        print('Hola (redefinido)... desde', __class__)
+        print(__class__)
 
-class Nieto(Hijo):
+class D(B):
     def saludar(self):
         super().saludar()
 
-class OtroNieto(OtroHijo):
+class E(C):
     pass
 
-padre = Padre()
-hijo = Hijo()
-otro_hijo = OtroHijo()
-nieto = Nieto()
-otro_nieto = OtroNieto()
+print(D.mro())
+
+a = A()
+b = B()
+c = C()
+d = D()
+e = E()
+
+a.saludar()
+b.saludar()
+c.saludar()
+d.saludar()
+e.saludar()
+
 
 # Funcion isinstance
-print('Objeto hijo es instancia de clase Hijo:',isinstance(hijo, Hijo))
-print('Objeto nieto es instancia de clase Padre:', isinstance(nieto, Padre))
+print('Objeto b es instancia de clase B:',isinstance(b, A))
+print('Objeto d es instancia de clase A:', isinstance(d, C))
 
 # Funcion issubclase
-print('Clase OtroNieto es subclase de OtroHijo:', issubclass(OtroNieto, OtroHijo))
-print('Clase OtroNieto es subclase de Padre:', issubclass(OtroNieto, Padre))
+print('Clase E es subclase de C:', issubclass(E, C))
+print('Clase E es subclase de A:', issubclass(E, A))

@@ -4,6 +4,9 @@ class Auto:
         self.modelo = modelo
         self.año = año
 
+    def __str__(self):
+        return '{} {} ({})'.format(self.marca, self.modelo, self.año)
+
 class Taxi(Auto):
     def __init__(self, marca, modelo, año, numero):
         # No se necesita redefinir otra vez el inicializador de los 3 primeros atributos
@@ -12,3 +15,4 @@ class Taxi(Auto):
 
 
 taxi1 = Taxi('Datsun', '210', 1980, '1245')
+print(taxi1)

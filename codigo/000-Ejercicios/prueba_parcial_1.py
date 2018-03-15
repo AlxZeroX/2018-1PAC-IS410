@@ -31,3 +31,6 @@ print('Prueba 9.2', parcial_1.transformarMedida({'f': 32}) == {'C': 0.0})
 
 print('Prueba 10.1', parcial_1.obtenerBilletes(123) == {100: 1, 20: 1, 2: 1, 1: 1})
 print('Prueba 10.2', parcial_1.obtenerBilletes(14) == {2: 2, 10: 1})
+
+for x in range(0, 10):
+    print(parcial_1.random_propio())

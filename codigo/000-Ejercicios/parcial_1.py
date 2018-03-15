@@ -232,3 +232,9 @@ def obtenerBilletes(monto: int) -> int:
 Trate de crear una función que genere un número pseudo-aleatorio utilizando únicamente los elementos vistos hasta ahora 
 en la clase.
 '''
+
+def random_propio():
+    str1 = list('hola')
+    numero = id(str1)
+
+    return numero
