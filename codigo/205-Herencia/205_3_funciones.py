@@ -34,8 +34,8 @@ e.saludar()
 
 
 # Funcion isinstance
-print('Objeto b es instancia de clase B:',isinstance(b, A))
-print('Objeto d es instancia de clase A:', isinstance(d, C))
+print('Objeto b es instancia de clase B:', isinstance(b, B))
+print('Objeto d es instancia de clase A:', isinstance(d, A))
 
 # Funcion issubclase
 print('Clase E es subclase de C:', issubclass(E, C))
