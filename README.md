@@ -23,6 +23,7 @@
 - [Copia de un objeto](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/203-Copia_objetos)
 - [Encapsulamiento](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/204-Encapsulamiento)
 - [Herencia](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/205-Herencia)
+- [Clases abstractas](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/206-Clases_abstractas)
 
 #### Temas extras
 - [Clases](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-clases.md)

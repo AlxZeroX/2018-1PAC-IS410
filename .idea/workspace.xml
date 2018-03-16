@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3121437f-7d28-4b35-90f4-50db2cc3285e" name="Default" comment="clases abstractas">
-      <change beforePath="" afterPath="$PROJECT_DIR$/codigo/206-Clases_abstractas/cuadrado.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codigo/206-Clases_abstractas/figura.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codigo/206-Clases_abstractas/triangulo.py" />
+    <list default="true" id="3121437f-7d28-4b35-90f4-50db2cc3285e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/codigo/205-Herencia/205_3_funciones.py" afterPath="$PROJECT_DIR$/codigo/205-Herencia/205_3_funciones.py" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,12 +74,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cuadrado.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cuadrado.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codigo/206-Clases_abstractas/cuadrado.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -176,12 +186,12 @@
         <option value="$PROJECT_DIR$/codigo/205-Herencia/205_5_ocultos.py" />
         <option value="$PROJECT_DIR$/codigo/205-Herencia/205_2_super.py" />
         <option value="$PROJECT_DIR$/codigo/205-Herencia/205_3_herencia_multiple.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/codigo/206-Clases_abstractas/figura2D.py" />
         <option value="$PROJECT_DIR$/codigo/206-Clases_abstractas/triangulo.py" />
         <option value="$PROJECT_DIR$/codigo/206-Clases_abstractas/figura.py" />
         <option value="$PROJECT_DIR$/codigo/205-Herencia/205_3_funciones.py" />
         <option value="$PROJECT_DIR$/codigo/206-Clases_abstractas/cuadrado.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -415,11 +425,19 @@
       <option name="project" value="LOCAL" />
       <updated>1521094040057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="clases abstractas">
+      <created>1521200030886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521200030886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19875" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -445,7 +463,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Atributos y metodos" />
     <MESSAGE value="Mejora en navegacion de carpetas" />
     <MESSAGE value="Ejercicios incluidos" />
@@ -691,16 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codigo/206-Clases_abstractas/figura.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -762,6 +769,17 @@
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
