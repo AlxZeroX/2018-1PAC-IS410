@@ -11,13 +11,13 @@ print('Hola' 'mundo')
 # Es posible repetir cadenas
 str1_repetida = str1 * 4
 
-# Convertir a mayusculas
+# Convertir 206-Clases-abstractas mayusculas
 str1.upper()
 
-# Convertir a minuscula
+# Convertir 206-Clases-abstractas minuscula
 str1.lower()
 
-# Convertir a formato titulo
+# Convertir 206-Clases-abstractas formato titulo
 str1.title()
 
 # Crear un texto centrado, se puede alinear tambien con ljust y rjust

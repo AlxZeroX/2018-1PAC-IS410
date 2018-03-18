@@ -1,14 +1,14 @@
 # Las listas pueden contener varios tipos de datos
 lista = [1, 2.0, True, [1,2,3]]
 
-# Acceder a un elemento especifico
+# Acceder 206-Clases-abstractas un elemento especifico
 lista[2]
 
 # Acceder al ultimo elemento
 lista[-1]
 
-# Acceder a una porcion de la lista
-lista[2:]   # Una porcion a partir del segundo elemento
+# Acceder 206-Clases-abstractas una porcion de la lista
+lista[2:]   # Una porcion 206-Clases-abstractas partir del segundo elemento
 lista[1:3]  # Una porcion entre el indice 1 y 3
 lista[:]    # Una copia integra de la lista
 
@@ -30,5 +30,5 @@ lista.remove(False)
 # Borrar ultimo elemento y devolverlo
 lista.pop()
 
-# Borrar un elemento a traves del indice
+# Borrar un elemento 206-Clases-abstractas traves del indice
 lista.pop(1)

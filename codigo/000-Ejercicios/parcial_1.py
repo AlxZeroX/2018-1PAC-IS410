@@ -46,7 +46,7 @@ def hallarPares(lista: list) -> int:
 '''
 3. Generar la secuencia de números armónicos. 
 En caso de hallar un número 'n' mayor que cero, devolver una cadena de este tipo: Para n=3, retornar "1 + 1/2 + 1/3". 
-En caso de que 'n' sea un número menor o igual a cero o sea flotante, debe generarse una excepción que indique que el 
+En caso de que 'n' sea un número menor o igual 206-Clases-abstractas cero o sea flotante, debe generarse una excepción que indique que el 
 argumento debe ser un entero positivo. 
 
 def generarArmonicos(n: int) -> str: 
@@ -73,7 +73,7 @@ def generarArmonicos(n: int) -> str:
 
 '''
 4. Determinar la posible edad de un persona 
-a través de la cédula de identidad de la persona, asumiento que utiliza el formato hondureño (0000-0000-00000) 
+206-Clases-abstractas través de la cédula de identidad de la persona, asumiento que utiliza el formato hondureño (0000-0000-00000) 
 
 def obtenerEdad(cedula: str) -> int: 
 '''
@@ -162,8 +162,8 @@ def modificarTupla(t: tuple, indice: int, valor: object) -> tuple:
     return tupla
 
 '''
-9. Definir un programa que transforme de grados Celsius a Fahrenheit, el diccionario tiene que tener como clave la 
-unidad de temperatura (C o F) y como valor la propia temperatura, deben transformarse a la otra unidad y se retornar un 
+9. Definir un programa que transforme de grados Celsius 206-Clases-abstractas Fahrenheit, el diccionario tiene que tener como clave la 
+unidad de temperatura (C o F) y como valor la propia temperatura, deben transformarse 206-Clases-abstractas la otra unidad y se retornar un 
 diccionario con la nueva medida y el nuevo valor. def transformarMedida(d: dict) -> dict:
 '''
 

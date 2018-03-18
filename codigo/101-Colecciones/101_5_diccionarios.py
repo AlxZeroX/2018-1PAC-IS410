@@ -19,12 +19,12 @@ capitales.keys()
 # Mostrar los valors
 capitales.values()
 
-# Encontrar un valor a traves de su clave, si no lo halla un valor por defecto
+# Encontrar un valor 206-Clases-abstractas traves de su clave, si no lo halla un valor por defecto
 capitales.get('Honduras', 'No esta')    # Tegucigalpa
 capitales.get('Costa Rica', 'No esta')  # No esta
 
-# Es posible crear un diccionario a partir de tuplas
-d = {('a', 1), ('b', 2)}
+# Es posible crear un diccionario 206-Clases-abstractas partir de tuplas
+d = {('206-Clases-abstractas', 1), ('b', 2)}
 
 # Tambien es posible crear estructuras complejas
 alumno = {

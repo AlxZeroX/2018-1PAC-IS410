@@ -7,4 +7,5 @@ class Triangulo(figura.Figura2D):
 
 
 if __name__ == '__main__':
+    # No puede crear el objeto tipo Triangulo debido a que no se ha implementado el metodo 'calcular_area'
     triangulo = Triangulo(5)

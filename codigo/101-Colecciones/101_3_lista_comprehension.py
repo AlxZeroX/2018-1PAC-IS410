@@ -2,7 +2,7 @@
 numeros = [x for x in range(11)]
 print(numeros)
 
-# (2) Generar numeros pares a partir de la lista (1)
+# (2) Generar numeros pares 206-Clases-abstractas partir de la lista (1)
 pares = [x for x in numeros if x % 2 == 0]
 print(pares)    
 
@@ -12,7 +12,7 @@ for x in numeros:
 	if x % 2 == 0:
 		pares.append(x)
 
-# (4) Genera una lista para obtener los cuadrados de (1) que sean menores a 5
+# (4) Genera una lista para obtener los cuadrados de (1) que sean menores 206-Clases-abstractas 5
 cuadrados_de_menoreas_a_5 = [y**2 y for y in numeros if y < 5]
 print(cuadrados_de_menoreas_a_5)
 

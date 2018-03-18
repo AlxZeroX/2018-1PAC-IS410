@@ -9,19 +9,19 @@ class Persona:
         size = len(args)
 
         if size == 1:
-            self.inicializarCopia(*args)
+            self.inicializar_copia(*args)
         elif size == 3:      
-            self.inicializarSimple(*args)
+            self.inicializar_simple(*args)
         else:   
             raise Exception('Numero de argumentos invalido')
         
 
-    def inicializarSimple(self, nombre: str, identidad: str, lugar_nacimiento: str):
+    def inicializar_simple(self, nombre: str, identidad: str, lugar_nacimiento: str):
         self.nombre = nombre
         self.identidad = identidad
         self.lugar_nacimiento = lugar_nacimiento
 
-    def inicializarCopia(self, copia):
+    def inicializar_copia(self, copia):
         self.nombre = copia.nombre
         self.identidad = copia.identidad
         self.lugar_nacimiento = copia.lugar_nacimiento

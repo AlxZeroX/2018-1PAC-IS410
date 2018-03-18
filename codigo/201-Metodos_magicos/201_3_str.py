@@ -1,6 +1,6 @@
 
 class Persona:
-    # La funcion esta obligada a retornar un string
+    # La funcion esta obligada 206-Clases-abstractas retornar un string
     def __str__(self):
         return 'Llamado del metodo __str__'
 

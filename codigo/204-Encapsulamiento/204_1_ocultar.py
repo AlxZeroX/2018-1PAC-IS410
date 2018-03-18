@@ -22,11 +22,11 @@ c1.contar()
 print('Valor original de la variable oculta')
 c1.imprimir()
 
-print('Se intenta modificar la variable oculta a 1000 directamente')
+print('Se intenta modificar la variable oculta 206-Clases-abstractas 1000 directamente')
 c1.__cuenta = 1000
 c1.imprimir()
 
-print('Se intenta modificar la variable oculta a 9999 utilizando el formato de revelado')
+print('Se intenta modificar la variable oculta 206-Clases-abstractas 9999 utilizando el formato de revelado')
 c1._Contador__cuenta = 9999
 c1.imprimir()
 

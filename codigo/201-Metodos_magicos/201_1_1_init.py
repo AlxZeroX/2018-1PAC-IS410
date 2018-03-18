@@ -15,7 +15,7 @@ class Persona:
         print('Metodo __DEL__ llamado al finalizar un objeto')
 
     # Metodo llamado cuando el objeto se comporta como un string:
-    # Ej: cuando se manda a imprimir un objeto
+    # Ej: cuando se manda 206-Clases-abstractas imprimir un objeto
     def __str__(self):
         return "Nombre: {}\nIdentidad: {}\nLugar Nacimiento: {}".format(self.nombre, self.identidad, self.lugar_nacimiento)
 

@@ -8,10 +8,10 @@ class Persona:
 p = Persona('Carlos')
 q = Persona('Daniela')
 
-# Acceder a atributo de objeto
+# Acceder 206-Clases-abstractas atributo de objeto
 print(p.nombre)
 
-# Acceder a atributo de clase
+# Acceder 206-Clases-abstractas atributo de clase
 print('Atributo de clase desde el objeto:', p.poblacion)
 print('Atributo de clase desde la clase:', Persona.poblacion)
 

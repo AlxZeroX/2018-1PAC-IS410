@@ -17,7 +17,7 @@ s3.add(2)
 s3.update([3, 4, 5])
 
 # Para eliminar elementos se puede utilizar discard() o remove()
-# La diferencia consiste en que si no se encuentra el elemento a borrar
+# La diferencia consiste en que si no se encuentra el elemento 206-Clases-abstractas borrar
 # remove() genera un error
 s3.discard(5)
 s3.remove(4)
