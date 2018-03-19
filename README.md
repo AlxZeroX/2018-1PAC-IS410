@@ -28,3 +28,4 @@
 #### Temas extras
 - [Clases](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-clases.md)
 - [Objectos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-objetos.md)
+- [Encapsulamiento](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-03-18-encapsulamiento.md)
