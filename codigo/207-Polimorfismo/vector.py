@@ -18,6 +18,10 @@ class Vector:
         vector_resta = Vector(restax, restay)
         return  vector_resta
 
+    def __radd__(self, other):
+        raise NotImplementedError
+
+
 def main():
     v1 = Vector(1, 0)
     v2 = Vector(0, 1)
@@ -25,6 +29,9 @@ def main():
     v4 = v3 - v2
     print('{} + {} = {}'.format(v1, v2, v3))
     print('{} - {} = {}'.format(v3, v2, v4))
+
+    lista = [v1, v2, v3]
+    print(sum(lista))
 
 if __name__ == '__main__':
     main()
