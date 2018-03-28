@@ -1,4 +1,4 @@
-# Uso del operador with como Context Manager
+# Uso del operador with como Context Manager. En este caso no es necesario cerrar el archivo
 
 with open('mbox.txt') as fhandler:
     lineas = fhandler.readlines()

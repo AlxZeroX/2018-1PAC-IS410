@@ -13,4 +13,4 @@ def sumar(a, b):
 lista = [1, 2, 3]
 
 # Una cadena
-secreto = 'Hola'
+_secreto = 'Hola'
