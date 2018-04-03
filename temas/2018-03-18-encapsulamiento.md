@@ -1,14 +1,37 @@
 [Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
 # Encapsulamiento
+## Definición
+Las variables del objeto se localizan en el centro o núcleo del objeto. Los métodos rodean y esconden el núcleo del objeto de otros objetos en el programa. Al empaquetamiento de las variables de un objeto con la protección de sus métodos se le llama encapsulamiento. Típicamente, el encapsulamiento es utilizado para esconder detalles de la puesta en práctica no importantes de otros objetos.[[1]](http://profesores.fi-b.unam.mx/carlos/java/java_basico3_3.html)
+
+Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.[[2]](https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/)
+
+Existen dos productos que se forman a partir del encapsulamiento:
+- Modularidad
+- Ocultamiento de Datos
+
+### Modularidad
+- El código fuente de un objeto puede ser construido y mantenido, independientemente del código fuente de otros objetos. Así mismo, un objeto puede ser transferido alrededor del sistema sin alterar su estado y conducta.
+- Las partes se denominan módulos.
+- Cada módulo se puede reutilizar en más de un programa.
+- Esto nos permite que los programas sean más fáciles de escribir y leer, de modificar y mantener.
 
 ### Ocultamiento de datos
+Una forma de prevenir que se establezcan dependencias innecesarias entre partes de programas es usar mecanismos que permitan o ayuden al programador de un módulo impedir el establecimiento de dichas dependencias desde otros módulos. 
+
+El ocultamiento de datos es la capacidad de algunos lenguajes de impedir que desde un módulo A se use una declaración incluidas en otro módulo B. Esto se hace limitando el ámbito de dicha declaraciones (se dice que la declaración no es visible desde A).
+
+#### Ventajas del ocultamiento
+- El ocultamiento de información ayuda a reducir la dependencias entre módulos, ya que, si se sabe que una declaración no es visible en otros módulos, podemos asumir que cualquier cambio que hagamos en la misma no afectará a esos otros módulos, sino únicamente a aquel módulo donde aparece.
+- Este mecanismo permite al diseñador de un módulo seleccionar qué declaraciones del mismo serán visibles desde otros módulos, por tanto, se hace explícito en el programa las dependencias que se pueden establecer
+
+#### Niveles de ocultamiento
 En la mayoría de lenguajes de programación orientado a objetos se tiene diversos tipos de ocultamiento de datos, siendo 
 los más comúnes:
 - **Público:** Acceso y modificación de atributos y métodos fuera del objeto.
 - **Privado:** Los atributos y métodos del objeto solo puede ser accedido y modificado dentro del objeto.
 - **Protegido:** Atributo y métodos del objeto solo son accedidos por él mismo y objetos de clases derivadas.
 
-En el caso de Python, los atributos y métodos de objeto son accedidos de forma público. No existe ocultamiento privado 
+En el caso de Python, los atributos y métodos de objeto son accedidos de forma pública. No existe ocultamiento privado 
 o protegidos.
 
 Sin embargo, Python permite ocultar atributos para evitar el acceso directo de los mismos. 
