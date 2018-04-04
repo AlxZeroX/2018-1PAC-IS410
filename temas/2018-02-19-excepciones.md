@@ -99,6 +99,9 @@ Existe un listado más detallado [a continuación](https://docs.python.org/3/lib
 ---
 
 #### Fuentes
-1. http://computacion.cs.cinvestav.mx/~ameneses/pub/tesis/ltesis/node15.html
-2. https://code.tutsplus.com/es/tutorials/how-to-handle-exceptions-in-python--cms-28621
-3. http://docs.python.org.ar/tutorial/3/errors.html
+- http://computacion.cs.cinvestav.mx/~ameneses/pub/tesis/ltesis/node15.html
+- https://code.tutsplus.com/es/tutorials/how-to-handle-exceptions-in-python--cms-28621
+- http://docs.python.org.ar/tutorial/3/errors.html
+
+---
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)

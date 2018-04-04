@@ -22,3 +22,6 @@ Los editores de texto son un opcion popular ya que requieren menos recursos que 
 
 ### IDE: PyCharm
 Con PyCharm se tiene un entorno de trabajo que se adecua a labores mas complejas. Existen dos versiones:  una gratuita y otra de paga. [Descarga de PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
+
+---
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)

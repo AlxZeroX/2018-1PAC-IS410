@@ -50,3 +50,6 @@ Una vez definido el interprete presione el botón **Crear** y tendrá una proyec
 Como se puede observar con esta configuración no se observa ningun archivo agregado, con lo cual el tamaño de la carpeta es sumamente pequeño.
 
 ![Proyecto sin virtualenv](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/pycharm/8.PNG)
+
+---
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)

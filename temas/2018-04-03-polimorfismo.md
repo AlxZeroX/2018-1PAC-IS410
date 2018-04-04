@@ -1,3 +1,4 @@
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
 # Polimorfismo
 
 ## Definición
@@ -146,3 +147,6 @@ v3 = v1 + v2
 v4 = v2 - v1
 ```
 Además es posible utilizar otros operadores matemáticos y lógicos para su incorporación en nuevas estructuras.
+
+---
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)

@@ -124,3 +124,6 @@ if __name__ == '__main__':
 - https://docs.python.org/3.5/library/functions.html?highlight=property#property
 - https://www.programiz.com/python-programming/property
 - https://www.python-course.eu/python3_properties.php
+
+---
+[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
