@@ -34,6 +34,6 @@
 - [Objectos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-objetos.md)
 - [Encapsulamiento](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-03-18-encapsulamiento.md)
 - [Herencia](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-01-herencia.md)
-- Clases abstractas
+- [Clases abstractas](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-03-abstractos.md)
 - [Polimorfismo](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-03-polimorfismo.md)
-- Módulos y paquetes
+- [Módulos y paquetes](http://docs.python.org.ar/tutorial/3/modules.html)
