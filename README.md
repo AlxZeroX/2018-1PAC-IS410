@@ -29,7 +29,7 @@
 - [Paquetes](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/209-Paquetes)
 - [Archivos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/codigo/210-Archivos)
 
-#### Temas extras
+#### Temas
 - [Clases](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-clases.md)
 - [Objectos](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-02-25-objetos.md)
 - [Encapsulamiento](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-03-18-encapsulamiento.md)
@@ -37,3 +37,6 @@
 - [Clases abstractas](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-03-abstractos.md)
 - [Polimorfismo](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-03-polimorfismo.md)
 - [Módulos y paquetes](http://docs.python.org.ar/tutorial/3/modules.html)
+
+#### Extras
+- [Git](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git.md)
