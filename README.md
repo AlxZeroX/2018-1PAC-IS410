@@ -38,5 +38,8 @@
 - [Polimorfismo](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-03-polimorfismo.md)
 - [Módulos y paquetes](http://docs.python.org.ar/tutorial/3/modules.html)
 
-#### Extras
-- [Git](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git.md)
+#### Git
+- [Instalación](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-instalacion.md)
+- [Local](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-local.md)
+- [Ramificaciones](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-branch.md)
+- [Remoto](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-remoto.md)
