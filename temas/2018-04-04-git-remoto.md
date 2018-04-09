@@ -1,6 +1,6 @@
 [Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
 
-# Git Remoto
+# Repositorio Remoto
 ## Clonar un proyecto
 Si se tiene un proyecto en un repositorio remoto pero no existe un repositorio local, se puede descargar los archivos remotos:
 ```bash
@@ -27,17 +27,17 @@ git remote remove [nombre del repositorio]
 
 Para recibir cambios en archivos e incorporarlos a nuestro espacio local de trabajo se utiliza el comando:
 ```bash
-git pull [nombre del repositorio][nombre de la rama]
+git pull [nombre del repositorio] [nombre de la rama]
 ```
 
 Para recibir cambios en archivos remotos e incorporarlos posteriormente:
 ```bash
-git fetch [nombre del repositorio][nombre de la rama]
+git fetch [nombre del repositorio] [nombre de la rama]
 ```
 
 Para enviar cambios al repositorio remoto:
 ```bash
-git push [nombre del repositorio][nombre de la rama]
+git push [nombre del repositorio] [nombre de la rama]
 ```
 
 ---
