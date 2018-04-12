@@ -1,5 +1,4 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
-
+[Principal]
 # Instalación de Git
 ## Ventajas
 - **Control de Versiones**: Poder identificar quién y qué cambios se han realizado en un proyecto.
@@ -45,4 +44,6 @@ git config --global format.pretty oneline
 ![Estados](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/blob/master/temas/imagenes/git/fases.jpg)
 
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410

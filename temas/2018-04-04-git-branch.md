@@ -1,5 +1,4 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
-
+[Principal]
 # Ramificaciones
 Es posible trabajar con varias ambientes dentro de un repositorio local, a esto se le llama **branch** o ramificación.
 
@@ -20,4 +19,6 @@ git merge B
 ```
 
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410

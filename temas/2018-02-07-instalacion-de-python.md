@@ -1,4 +1,5 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
 #Instalación de Python
 ## Ejecutable de Python
 Para los editores de Texto y el IDE es necesario que se tenga instalado Python, el cual contiene el interprete y algunas librerias extras. La version a utilizar es  actualmente la **3.6.4**. [Descarga de Python](https://www.python.org/downloads/release/python-364/).
@@ -24,4 +25,6 @@ Los editores de texto son un opcion popular ya que requieren menos recursos que 
 Con PyCharm se tiene un entorno de trabajo que se adecua a labores mas complejas. Existen dos versiones:  una gratuita y otra de paga. [Descarga de PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
 
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410

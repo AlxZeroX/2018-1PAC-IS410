@@ -1,4 +1,4 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
 # Manejo de Excepciones
 ## Definición
 Los errores de programación se presentan cuando un programa finaliza con un resultado indeseado. Estos pueden ser:
@@ -104,4 +104,6 @@ Existe un listado más detallado [a continuación](https://docs.python.org/3/lib
 - http://docs.python.org.ar/tutorial/3/errors.html
 
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410

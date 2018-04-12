@@ -1,4 +1,4 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
 
 # Clases Abstractas
 
@@ -29,4 +29,6 @@ class Figura2D(metaclass=abc.ABCMeta)
 ```
 
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410

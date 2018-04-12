@@ -1,11 +1,11 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
 # Polimorfismo
 
 ## Definición
 Es la cualidad de ser capaz de asumir diferentes formas. En orientación a objetos, es la habilidad de vincular objetos de diferentes tipos a un solo identificador en tiempo de ejecución.
 
-Se refiere a la capacidad de acceder a múltiples funciones a través del mismo interfaz. Es decir que un mismo identificador, o función puede tener diferentes comportamientos con respecto al contexto en el que sea ejecutado.[[1]](http://www.codigo-facil.com/es/poo-php-polimorfismo.php
-)
+Se refiere a la capacidad de acceder a múltiples funciones a través del mismo interfaz. Es decir que un mismo identificador, o función puede tener diferentes comportamientos con respecto al contexto en el que sea ejecutado.[1][1]
 
 ## Tipos
 - Sobrecarga
@@ -91,7 +91,9 @@ public class ProbarPieza {
 Dado que Python es un lenguaje de tipado dinámico, posee características diferentes en cuanto al aprovechamiento del polimorfismo.
 
 ### Duck Typing
-`Si camina como pato, nada como pato y suena como pato, probablemente es un pato`. Python no es necesita la herencia para tener polimorfismo, tan solo es necesario que objetos se comporten de manera similar.
+*Si camina como pato, nada como pato y suena como pato, probablemente es un pato*. 
+
+Python no necesita la herencia para tener polimorfismo, solo es necesario que objetos se comporten de manera similar.
 
 ```python
 class Pato:
@@ -115,7 +117,7 @@ hacer_graznar(pato2)
 ```
 
 ### Sobrecarga de operadores
-Parte de la funcionalidad de Python consiste en utilizar los operadores, tanto aritmeticos como légicos, para nuevas labores a partir de ciertos métodos. 
+Parte de la funcionalidad de Python consiste en utilizar los operadores, tanto aritméticos como lógicos, para nuevas labores a partir de ciertos métodos. 
 
 Por ejemplo, es posible utilizar el operador (+) para sumar o concatenar objetos:
 
@@ -148,5 +150,10 @@ v4 = v2 - v1
 ```
 Además es posible utilizar otros operadores matemáticos y lógicos para su incorporación en nuevas estructuras: [Lista de Operadores](https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types)
 
+
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[1]: http://www.codigo-facil.com/es/poo-php-polimorfismo.php
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410

@@ -1,4 +1,4 @@
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
 # Encapsulamiento
 ## Definición
 Las variables del objeto se localizan en el centro o núcleo del objeto. Los métodos rodean y esconden el núcleo del objeto de otros objetos en el programa. Al empaquetamiento de las variables de un objeto con la protección de sus métodos se le llama encapsulamiento. Típicamente, el encapsulamiento es utilizado para esconder detalles de la puesta en práctica no importantes de otros objetos.[[1]](http://profesores.fi-b.unam.mx/carlos/java/java_basico3_3.html)
@@ -126,4 +126,6 @@ if __name__ == '__main__':
 - https://www.python-course.eu/python3_properties.php
 
 ---
-[Principal](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410)
+[Principal]
+
+[Principal]: https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410
