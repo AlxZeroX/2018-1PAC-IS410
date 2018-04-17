@@ -9,11 +9,11 @@ class Figura2D(metaclass=abc.ABCMeta):
     def calcular_perimetro(self):
         return self.longitud * self.numero_lados
 
-    @abc.abstractclassmethod
+    @abc.abstractmethod
     def calcular_area(self):
         '''Calcula el area de una figura regular'''
 
-    @abc.abstractclassmethod
+    @abc.abstractmethod
     def dibujar(self):
         print('Figura 2D')
 
