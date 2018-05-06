@@ -43,3 +43,11 @@
 - [Local](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-local.md)
 - [Ramificaciones](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-branch.md)
 - [Remoto](https://github.com/UNAH-SISTEMAS/2018-1PAC-IS410/tree/master/temas/2018-04-04-git-remoto.md)
+
+## Parcial III
+### Codigo
+- [Kivy](https://github.com/UNAH-SISTEMAS/kivydemo)
+### Temas
+- [Documentación de Kivy](https://kivy.org/docs/gettingstarted/intro.html)
+- [Creating Apps in Kivy (Libro)](pdf.th7.cn/down/files/1411/Creating%20Apps%20in%20Kivy.pdf)
+- [Creating Apps in Kivy (Código)](https://github.com/oreillymedia/creating_apps_in_kivy)
