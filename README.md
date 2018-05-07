@@ -49,5 +49,6 @@
 - [Kivy](https://github.com/UNAH-SISTEMAS/kivydemo)
 ### Temas
 - [Documentación de Kivy](https://kivy.org/docs/gettingstarted/intro.html)
+- [Kivy Crash Course](http://inclem.net/pages/kivy-crash-course/)
 - [Creating Apps in Kivy (Libro)](pdf.th7.cn/down/files/1411/Creating%20Apps%20in%20Kivy.pdf)
 - [Creating Apps in Kivy (Código)](https://github.com/oreillymedia/creating_apps_in_kivy)
